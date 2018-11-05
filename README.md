@@ -65,8 +65,6 @@ Code a set of Crossed-Eye eyeballs, experiment with color and size.
 Cut and Paste this function into the LAST line of your code to save an image ( .png file format ) to your sketch folder.
 
 
-//save function
-save(“YOURFIRSTNAME(allcaps).Eyeball.Drawing.png");
 
 TURN IN in Classroom
 
