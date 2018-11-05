@@ -27,5 +27,3 @@ fill(35,145,100,100);
 ellipse(250,250,200,105);
 
 
-
-save("Kirkpatrick.Eyeball.Drawing,png");
